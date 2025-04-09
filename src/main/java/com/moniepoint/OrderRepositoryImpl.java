@@ -6,7 +6,7 @@ import java.util.List;
 public class OrderRepositoryImpl implements OrderRepository {
     @Override
     public void addOrder(Order order) throws IllegalArgumentException {
-        
+
     }
 
     @Override
